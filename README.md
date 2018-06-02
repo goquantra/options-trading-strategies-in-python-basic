@@ -34,7 +34,7 @@ Quantra® is an e-learning portal by QuantInsti® that specializes in Algorithmi
 
 <br>
 
-# Made on Python version 2.7
+### Made on Python version 2.7
 
 ### Table of contents
  -   List item
