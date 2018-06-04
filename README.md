@@ -1,10 +1,9 @@
-<img align="left" width="120" src="https://quantra.quantinsti.com/images/img_logo.svg">
-
-Learn A to Z of Algorithmic and Quantitative Trading
-Quantra® is an e-learning portal by QuantInsti® that specializes in Algorithmic & Quantitative Trading. Quantra offers the best self-paced courses that are a mix of videos, audios, presentations, multiple choice questions and highly interactive exercises.
-
+<p align="center">
+  <img align="center" width="200" src="https://quantra.quantinsti.com/images/img_logo.svg">
+</p>
+<p align="center">Learn A to Z of Algorithmic and Quantitative Trading</p>
+<p align="center">Quantra<sup>&reg;</sup> is an e-learning portal by QuantInsti<sup>&reg;</sup> that specializes in Algorithmic &amp; Quantitative Trading. Quantra offers the best self-paced courses that are a mix of videos, audios, presentations, multiple choice questions and highly interactive exercises.</p>
 <br>
-
 <div align="center">
   <h3>
     <a href="https://quantra.quantinsti.com/">
@@ -31,27 +30,24 @@ Quantra® is an e-learning portal by QuantInsti® that specializes in Algorithmi
 <div align="center">
   <h1>OPTIONS TRADING STRATEGIES BASIC</h1>
 </div>
-
 <br>
 
-### Made on Python version 2.7
+#### Made on Python version 2.7
 
 ### Table of contents
- -   List item
- -   About the course
- -   Features
- -   Know Your Options
- -   Volatility
- -   Strategies
- -   Download
- -   Contact Us
+ -   [About the course](#about-the-course)
+ -   [Know Your Options](#know-your-options)
+ -   [Volatility](#volatility)
+ -   [Strategies](#strategies)
+ -   [Download](#download)
+ -   [Contact Us](#contact-us)
  
 ### About the course
 [(Back to top)](#table-of-contents)
 
 This course covers basic concepts, exercises, and practical implementation of five options trading strategies. It has a mix of videos, eBooks, MCQs, iPython notebook documents, and interactive coding exercises to enhance your learning experience.
 
-##### What do I learn in this course
+#### What do I learn in this course
 -   Fundamentals of options trading
 -   Code and analyse the payoffs of put and call options
 -   How volatility plays an important role while trading in options and how to code historical volatility in python
@@ -59,8 +55,9 @@ This course covers basic concepts, exercises, and practical implementation of fi
 -   Code the payoffs of these strategies in Python
 ##### Want to know more? Check out the course [here](https://quantra.quantinsti.com/course/options-trading-strategies-python-basic).
 
-### Section 1
-#####  Know Your Options
+###  Know Your Options
+[(Back to top)](#table-of-contents)
+
 This section contains a brief discussion about the various options that are available to a trader. This section also contains the python code to plot and visualize the payoff of these options.
 
 The folder contains the following topics:
@@ -69,7 +66,9 @@ Put Option Payoff -- An [Ipython notebook](https://quantra.quantinsti.com/startC
 Call Option Payoff -- An [Ipython notebook](https://quantra.quantinsti.com/startCourseDetails?cid=57&section_no=1&unit_no=13) to visualize the payoff of Call Option
 You can understand the concepts by accessing the full [course](https://quantra.quantinsti.com/course/options-trading-strategies-python-basic).
 
-##### Volatility
+### Volatility
+[(Back to top)](#table-of-contents)
+
 This section contains a discussion on normal distribution and volatility and the coding of historical volatility in python.
 
 The folder contains the following topics:
@@ -77,7 +76,9 @@ The folder contains the following topics:
 Historical Volatility -- An [Ipython notebook](https://quantra.quantinsti.com/startCourseDetails?cid=57&section_no=3&unit_no=8) and an interactive [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=57&section_no=3&unit_no=9) to compute historical volatility of the stock.
 You can understand this topic in depth [here](https://quantra.quantinsti.com/course/options-trading-strategies-python-basic).
 
-#####  Strategies
+###  Strategies
+[(Back to top)](#table-of-contents)
+
 This section covers some of the famous option trading strategies for different market scenarios. It also contains the code to create the strategies in python.
 
 The folder contains the following topics:
@@ -96,8 +97,11 @@ Protective Put: A protective put strategy is built by going long on stock and si
 ## Download
 [(Back to top)](#table-of-contents)
 
+You can download the resources [here](https://quantra.quantinsti.com/startCourseDetails?cid=57&section_no=5&unit_no=2).
+
 ## Contact Us
 [(Back to top)](#table-of-contents)
 
 You can get in touch with us at [quantra@quantinsti.com](mailto:quantra@quantinsti.com)
-Alternatively, get in touch on:
+
+Alternatively, get in touch on : [Facebook](https://www.facebook.com/quantinsti) - [Twitter](https://twitter.com/quantinsti/) - [LinkedIn](https://www.linkedin.com/company/quantinsti) - [Google+](https://plus.google.com/110772715968756646442/) - [YouTube](https://www.youtube.com/user/quantinsti)
