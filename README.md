@@ -52,7 +52,7 @@ This course covers basic concepts, exercises, and practical implementation of fi
 #### What do I learn in this course
 -   Fundamentals of options trading
 -   Code and analyse the payoffs of put and call options
--   How volatility plays an important role while trading in options and how to code historical volatility in python
+-   Understand how volatility plays an important role while trading in options and how to code historical volatility in python
 -   Apply various types of options trading strategies like delta trading, hedging, and neutral strategies
 -   Code the payoffs of these strategies in Python
 
