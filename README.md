@@ -30,7 +30,7 @@
   </h3>
 </div>
 <div align="center">
-  <h1>OPTIONS TRADING STRATEGIES BASIC</h1>
+  <h1>Options Trading Strategies Basic</h1>
 </div>
 
 > Made on Python version 2.7
