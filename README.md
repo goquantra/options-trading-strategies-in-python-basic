@@ -1,3 +1,4 @@
+
 <p align="center">
   <img align="center" width="200" src="https://quantra.quantinsti.com/images/img_logo.svg">
 </p>
@@ -54,7 +55,8 @@ This course covers basic concepts, exercises, and practical implementation of fi
 -   How volatility plays an important role while trading in options and how to code historical volatility in python
 -   Apply various types of options trading strategies like delta trading, hedging, and neutral strategies
 -   Code the payoffs of these strategies in Python
-##### Want to know more? Check out the course [here](https://quantra.quantinsti.com/course/options-trading-strategies-python-basic).
+
+Want to know more? Check out the course [here](https://quantra.quantinsti.com/course/options-trading-strategies-python-basic).
 
 ###  Know Your Options
 [(Back to top)](#table-of-contents)
@@ -63,8 +65,8 @@ This section contains a brief discussion about the various options that are avai
 
 The folder contains the following topics:
 
-Put Option Payoff -- An [Ipython notebook](https://quantra.quantinsti.com/startCourseDetails?cid=57&section_no=1&unit_no=8) and an [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=57&section_no=1&unit_no=9) to visualize the payoff of Put Option.
-Call Option Payoff -- An [Ipython notebook](https://quantra.quantinsti.com/startCourseDetails?cid=57&section_no=1&unit_no=13) to visualize the payoff of Call Option
+Put Option Payoff -- An [Ipython notebook](https://quantra.quantinsti.com/startCourseDetails?cid=57&section_no=1&unit_no=8) and an [exercise](https://quantra.quantinsti.com/startCourseDetails?cid=57&section_no=1&unit_no=9) to visualize the payoff of a Put Option.
+Call Option Payoff -- An [Ipython notebook](https://quantra.quantinsti.com/startCourseDetails?cid=57&section_no=1&unit_no=13) to visualize the payoff of a Call Option
 You can understand the concepts by accessing the full [course](https://quantra.quantinsti.com/course/options-trading-strategies-python-basic).
 
 ### Volatility
@@ -92,7 +94,7 @@ Bear Put Spread: A bear put spread strategy is built by going long on put option
 
 Protective Put: A protective put strategy is built by going long on stock and simultaneously buying a put option. The aim of this strategy is to protect from adverse stock movement.
 
-[Covered Call](https://quantra.quantinsti.com/startCourseDetails?cid=57&section_no=4&unit_no=13):A covered call strategy is built by going long on a stock and simultaneously selling a call option on that stock. The strategy is used when the view on the stock is neutral.
+[Covered Call](https://quantra.quantinsti.com/startCourseDetails?cid=57&section_no=4&unit_no=13): A covered call strategy is built by going long on a stock and simultaneously selling a call option on that stock. The strategy is used when the view on the stock is neutral.
 
 
 ## Download
