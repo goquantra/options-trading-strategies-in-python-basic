@@ -31,7 +31,7 @@
   </h3>
 </div>
 <div align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/16116886/41020494-b49fa2a8-6980-11e8-9793-1f43c91edf8b.jpg">
+  <img align="center" src="https://user-images.githubusercontent.com/16116886/41021653-d0211fa8-6984-11e8-841d-b1cd6058dd12.png">
 </div>
 
 <br/>
