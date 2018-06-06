@@ -34,6 +34,8 @@
   <img align="center" src="https://user-images.githubusercontent.com/16116886/41020494-b49fa2a8-6980-11e8-9793-1f43c91edf8b.jpg">
 </div>
 
+<br/>
+
 > Made on Python version 2.7
 
 ### Table of contents
