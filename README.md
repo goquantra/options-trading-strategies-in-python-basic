@@ -31,8 +31,10 @@
   </h3>
 </div>
 <div align="center">
-  <h1>Options Trading Strategies Basic</h1>
+  <img align="center" src="https://user-images.githubusercontent.com/16116886/41021653-d0211fa8-6984-11e8-841d-b1cd6058dd12.png">
 </div>
+
+<br/>
 
 > Made on Python version 2.7
 
